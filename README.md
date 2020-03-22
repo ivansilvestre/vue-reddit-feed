@@ -1,3 +1,7 @@
+A personal Reddit Feed app using VueJs, Axios and VueBootstrap.
+
+
+
 # vue-reddit-feed
 
 ## Project setup
